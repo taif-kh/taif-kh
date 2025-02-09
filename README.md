@@ -1,12 +1,13 @@
 
 ###
-<div align="center">
+<div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=30000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Taif+Khaskhoussi" alt="Typing SVG" /></a>
 </div>
 
 ###
 
-<p align="left">I'm a full stack developer from Tunisia 🇹🇳. I'm a huge fan of arts 🎨 and design 🖌️. When I'm not doing something related to IT 💻, I can be found learning a language 🗣️, listening to music 🎶, reading something 📚, or just having a walk 🚶‍♂️ looking around for inspiration ✨.</p>
+<p align="left">I'm a full stack developer from Tunisia 🇹🇳. I'm a huge fan of arts 🎨 and design 🖌️. When I'm not doing something related to IT 💻, I can be found learning a language 🗣️, listening to music 🎶, reading something 📚, or just having a walk 🚶‍♂️ looking around for inspiration ✨.
+</p>
 
 ###
 
@@ -49,7 +50,6 @@
 </div>
 
 ###
-
 <h2 align="left">📫 How to reach me</h2>
 
 ###
@@ -69,9 +69,8 @@
 </div>
 
 ###
-
-<div align="center">
   <br />
+<div align="center">
   <img height="50" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVyanhsYjNvYTU4NHV6a2UyazgxbWNmcTRheGNuNHVncGs0NTNzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif"  />
 </div>
 
