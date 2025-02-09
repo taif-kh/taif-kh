@@ -1,7 +1,8 @@
 
 ###
-
-<h1 align="center">Hi 👋, I'm Taif Khaskhoussi</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=30000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Taif+Khaskhoussi" alt="Typing SVG" /></a>
+</div>
 
 ###
 
@@ -54,7 +55,7 @@
 ###
 
 <div align="center">
-  <a href="taif.khaskhoussi@outlook.com" target="_blank">
+  <a href="mailto:taif.khaskhoussi@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/taif-khaskhoussi/" target="_blank">
