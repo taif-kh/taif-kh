@@ -1,8 +1,8 @@
 
 ###
-<div>
+<h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=30000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Taif+Khaskhoussi" alt="Typing SVG" /></a>
-</div>
+</h1>
 
 ###
 
@@ -54,13 +54,17 @@
 
 ###
 
-<div align="center">
+<div align="left">
+  <p>Check out my Linkedin:
+  <a href="https://www.linkedin.com/in/taif-khaskhoussi" target="_blank">
+    https://www.linkedin.com/in/taif-khaskhoussi
+  </a>
+    </p>
+  <p>Email me:
   <a href="mailto:taif.khaskhoussi@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    taif.khaskhoussi@outlook.com
   </a>
-  <a href="https://www.linkedin.com/in/taif-khaskhoussi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+    </p>
 </div>
 
 ###
@@ -69,10 +73,9 @@
 </div>
 
 ###
-  <br />
-<div align="center">
-  <img height="50" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVyanhsYjNvYTU4NHV6a2UyazgxbWNmcTRheGNuNHVncGs0NTNzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4CA8D0,100:002A89&section=footer" />
+</p>
 
 ###
 <!--
