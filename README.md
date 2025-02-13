@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a full stack developer from Tunisia 🇹🇳. I'm a huge fan of arts 🎨 and design 🖌️. When I'm not doing something related to IT 💻, I can be found learning a language 🗣️, listening to music 🎶, reading something 📚, or just having a walk 🚶‍♂️ looking around for inspiration ✨.
+<p align="left">I'm a full stack developer from Tunisia 🇹🇳. I'm a huge fan of arts and design 🎨. When I'm not doing something related to IT 💻, I can be found learning a language , listening to music 🎶, reading something, or just having a walk looking around for inspiration ✨.
 </p>
 
 ###
