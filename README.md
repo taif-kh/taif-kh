@@ -60,11 +60,12 @@
     https://www.linkedin.com/in/taif-khaskhoussi
   </a>
     </p>
-  <p>Email me:
+ <!-- <p>Email me:
   <a href="mailto:taif.khaskhoussi@outlook.com" target="_blank">
     taif.khaskhoussi@outlook.com
   </a>
     </p>
+  -->
 </div>
 
 ###
